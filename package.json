@@ -1,0 +1,15 @@
+{
+  "name": "chau-week1-node-project",
+  "version": "1.0.0",
+  "description": "Checks if code is running as an npm using the is-npm dependency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Michael Chau",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "is-npm": "^2.0.0"
+  }
+}
